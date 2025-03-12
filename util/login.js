@@ -2,7 +2,7 @@ const {
     readdirSync
 } = require('fs');
 
-const login = (client) => {
+const login = (MTA0MjE1MjQ3MzEzOTM1NTY1Ng.G6K8VD.uk75WKH2Gja9ph40mIYxtFE696n7LK7Z-up_v4) => {
     const Discord = require("discord.js")
     const logs = require('discord-logs');
     logs(client)
